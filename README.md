@@ -1,0 +1,1 @@
+This is a set of data collection and sorting programs in python to pull tweets from twitter, sort, filter, and split them into call/reply data sets. You'll need to set up a accts.json file with your api key to actually begin pulling data.  DevSandbox is a directory to play with these programs without loosing the originals in the main file. 
